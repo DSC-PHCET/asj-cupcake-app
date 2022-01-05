@@ -26,6 +26,7 @@ import com.example.cupcake.databinding.FragmentFlavorBinding
 /**
  * [FlavorFragment] allows a user to choose a cupcake flavor for the order.
  */
+
 class FlavorFragment : Fragment() {
 
     // Binding object instance corresponding to the fragment_flavor.xml layout
